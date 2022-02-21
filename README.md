@@ -6,8 +6,8 @@ Proyecto de Tesis para obtener el Título de Licenciado en Ciencias de la Comput
 Presenta Jael Alejandro Estudillo Carranza.
 
 Bajo dirección del Dr. Canek Peláez Valdés
-Proyecto Tesis Recocido Simulado aplicado a VRP. El codigo necesario para probar la implementación se encuentra dentro de la carpeta VehicleRoutingProblem.
 
+El codigo necesario para probar la implementación se encuentra dentro de la carpeta VehicleRoutingProblem.
 Dentro de la carpeta base se encuentra la base de datos con la información necesaria para realizar el calculo de distancias y tiempo obtenidos, en caso de que 
 quiera consultarse su información se debe realziar mediante sqlite.
 
