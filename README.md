@@ -1,4 +1,11 @@
-# simulated-annealing
+# Recocido Simulado Aplicado a VRP
+Universidad Nacional Autónoma de México, Facultad de Ciencias.
+
+Proyecto de Tesis para obtener el Título de Licenciado en Ciencias de la Computación.
+
+Presenta Jael Alejandro Estudillo Carranza.
+
+Bajo dirección del Dr. Canek Peláez Valdés
 Proyecto Tesis Recocido Simulado aplicado a VRP. El codigo necesario para probar la implementación se encuentra dentro de la carpeta VehicleRoutingProblem.
 
 Dentro de la carpeta base se encuentra la base de datos con la información necesaria para realizar el calculo de distancias y tiempo obtenidos, en caso de que 
@@ -32,4 +39,3 @@ En caso de querer validar un resultado de la ejecucion anterior seria
 
 Cuando se realiza una ejecucion, se creara la carpeta report, donde segun al configuracion indicada se creara una carpeta donde se guardaran todas las posibles 
 soluciones con todos los documentos necesarios para analizar y replicar el resultado particular.
-
